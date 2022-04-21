@@ -3,3 +3,4 @@ src-git luci https://github.com/Boos4721/luci.git
 src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git Boos https://github.com/Boos4721/OpenWrt-Packages.git
+src-git kenzo https://github.com/kenzok8/small.git
